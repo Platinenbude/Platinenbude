@@ -26,7 +26,9 @@ Für den Aufbau der Steuerung (siehe Schaltplan) werden unter anderem folgende B
 
 ## 📂 Datei-Übersicht in diesem Ordner
 * `Schaltplan_RTC_Clock.pdf` - Der detaillierte Schaltplan in der aktuellen, bereinigten Version.
-* *(Weitere Dateien wie der Arduino-Code folgen)*[Schaltplan Arduino Uhr.pdf](https://github.com/user-attachments/files/31610255/Schaltplan.Arduino.Uhr.pdf)
+*[RTC Clock-_soldermask_top.zip](https://github.com/user-attachments/files/31610520/RTC.Clock-_soldermask_top.zip)
+*[RTC Clock-_soldermask_top.zip](https://github.com/user-attachments/files/31610525/RTC.Clock-_soldermask_top.zip)
+*   *(Weitere Dateien wie der Arduino-Code folgen)*[Schaltplan Arduino Uhr.pdf](https://github.com/user-attachments/files/31610255/Schaltplan.Arduino.Uhr.pdf)
 
 
 ## ⚠️ Wichtiger Hinweis (Disclaimer)
