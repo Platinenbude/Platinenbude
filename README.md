@@ -26,7 +26,8 @@ Für den Aufbau der Steuerung (siehe Schaltplan) werden unter anderem folgende B
 
 ## 📂 Datei-Übersicht in diesem Ordner
 * `Schaltplan_RTC_Clock.pdf` - Der detaillierte Schaltplan in der aktuellen, bereinigten Version.
-* *(Weitere Dateien wie der Arduino-Code folgen)*
+* *(Weitere Dateien wie der Arduino-Code folgen)*[Schaltplan Arduino Uhr.pdf](https://github.com/user-attachments/files/31610255/Schaltplan.Arduino.Uhr.pdf)
+
 
 ## ⚠️ Wichtiger Hinweis (Disclaimer)
 Dies ist ein privates Hobby- und Maker-Projekt der Platinenbude. Der Nachbau erfolgt auf eigene Gefahr. Ich übernehme keine Haftung für eventuelle Schäden an Hardware, Bauteilen oder Personen. Bitte achtet beim Basteln immer auf die grundlegenden Sicherheitsregeln der Elektronik!
